@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Electronics and Instrumentation at University of Gadjah Mada.
-- 💼 &nbsp; Working as a Software Engineer at PT. Indonesia Epson Industry.
+- 💼 &nbsp; Working as a Software Engineer at Unit4.
 - 🌱 &nbsp; Learning more about Backend Services and Web Development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
